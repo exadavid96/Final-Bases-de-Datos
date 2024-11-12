@@ -1,0 +1,1 @@
+SELECT * FROM unc_esq_peliculas.pelicula
